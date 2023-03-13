@@ -34,4 +34,4 @@
 
 *I would do a deeper DB QA process, verifying it data completeness, uniqueness, and consistency, and creating a new clean copy of the eCommerce DB.
 
-*I would do a more exhaustive results verification to improve my queries and answers.
+*I would do a more exhaustive results verification to improve my queries.
